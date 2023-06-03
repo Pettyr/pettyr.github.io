@@ -1,0 +1,21 @@
+
+
+h1 {
+    font-size: 100px;
+    text-align: center;
+}
+
+h2 {
+    font-family:'Times New Roman';
+    text-align: center;
+}
+.kenneth {
+    background-image: url(./kenneth\ kun.jpg);
+    height: 200px;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium';
+    color: pink;
+    border: 2px solid red;
+    text-align: center;
+    caption-side: bottom;
+}
